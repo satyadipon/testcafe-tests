@@ -22,7 +22,7 @@ npm install
 ```
 
 ## How to run test
-Clone the repo and load the directory into a shell/terminal/command prompt
+Clone the repo and load the directory into a shell/terminal/command prompt.
 And, run the following command
 
 ```
