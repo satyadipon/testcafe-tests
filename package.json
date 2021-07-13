@@ -1,0 +1,17 @@
+{
+  "name": "testcafe-tests",
+  "version": "1.0.0",
+  "description": "testcafe automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "keywords": [
+    "testcafe"
+  ],
+  "author": "testAuthor",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.15.0"
+  }
+}
