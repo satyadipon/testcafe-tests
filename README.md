@@ -1,4 +1,4 @@
-# Automated Testing
+# Automated Testing using TestCafe
 
 Automation project for UI testing using [Testcafe](https://devexpress.github.io/testcafe/documentation/getting-started/).
 This project verifies and validates "https://www-test.testup.io/"
